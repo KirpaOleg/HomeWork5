@@ -1,0 +1,9 @@
+  * {
+    box-sizing: border-box;
+  }
+  tr {
+    height: 35px;
+  }
+  td {
+    width: 110px;
+  }

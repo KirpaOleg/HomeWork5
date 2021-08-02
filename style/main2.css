@@ -1,0 +1,38 @@
+  * {
+    box-sizing: border-box;
+  }
+  .box {
+    text-align: center; 
+    background-color: white; 
+  }
+  .box2 { 
+    display: inline-block; 
+    margin: 20px; 
+  }
+  .chess { 
+    border-spacing: 0; 
+    border-collapse: collapse; 
+    background: #b65f17;
+    border: 2px solid black; 
+  }
+  .bord { 
+    padding: 0.4em; 
+  } 
+  .chess td { 
+    border: 1px solid black; 
+    width: 5em; 
+    height: 5em; 
+    text-align: center; 
+    vertical-align: middle; 
+  }
+  .chess .white { 
+    background: white; 
+  }
+  .chess .black { 
+    background: #b48762; 
+  }
+  img {
+    text-align: center; 
+    width: 5em; 
+    height: 5em; 
+  }
